@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash 
 
 echo "Sleeping for 2s to make sure DB is up and running..."
 sleep 2s
